@@ -26,6 +26,7 @@ jQuery(document).ready(function () {
             }
         }
     );
+    
 
     jQuery(".owl-carousel5").owlCarousel(
         {
